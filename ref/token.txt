@@ -1,0 +1,5 @@
+actual bot (Nacht29, @nacht_29_bot):
+7787249427:AAGTtbqE8N2imW65tAG3E3gm4c6LtYewbtg
+
+test bot (nachtTestBot, @nacht_test_bot):
+7248700753:AAEsdVfcYvsBdWKAZZyM0RPJZZ5w-hFmCKw

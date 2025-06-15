@@ -1,0 +1,4 @@
+/setcommands
+@nacht_test_bot
+start - Start the bot
+echo - Echo message
