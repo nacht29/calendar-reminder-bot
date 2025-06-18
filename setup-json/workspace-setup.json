@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "../python/python-notes"
+		},
+		{
+			"path": "../pygcp"
+		},
+		{
+			"path": "../cloud-space-workspace/giant"
+		},
+		{
+			"path": "../cloud-space-workspace/mrdiy"
+		},
+		{
+			"path": "../cloud-space-workspace/Superstore-Analysis"
+		},
+		{
+			"path": "../cloud-space-workspace/GCP-docs"
+		},
+		{
+			"path": "../cloud-space-workspace/bigcaring"
+		}
+	],
+	"settings": {
+        "python.analysis.extraPaths": [
+            "/home/nacht29/.local/lib/python3.12/site-packages",
+            "./src"  // Add this if your package has a src layout
+        ],
+        "python.analysis.typeshedPaths": [],
+        "python.autoComplete.extraPaths": [
+            "/home/nacht29/.local/lib/python3.12/site-packages"
+        ],
+        "python.defaultInterpreterPath": "/usr/bin/python3",
+        "python.languageServer": "Pylance",
+        "python.analysis.diagnosticSeverityOverrides": {
+            "reportMissingImports": "none",
+            "reportUndefinedVariable": "none"
+        }
+    }
+
+}

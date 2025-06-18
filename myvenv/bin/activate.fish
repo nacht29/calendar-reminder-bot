@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /mnt/c/Users/user/Documents/calendar-reminder-bot/myvenv
+set -gx VIRTUAL_ENV /mnt/c/Users/Asus/Desktop/calendar-reminder-bot/myvenv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
